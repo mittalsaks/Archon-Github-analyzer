@@ -5,7 +5,7 @@
 ### AI-Powered Codebase Intelligence Platform
 **Paste a repo URL → get a dependency graph, a health score, and an AI that actually knows your architecture.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-archon--github--repo--analyzer--1.onrender.com-8b5cf6?style=for-the-badge)](https://archon-github-repo-analyzer-1.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-archon--github--repo--analyzer--1.onrender.com-8b5cf6?style=for-the-badge)](https://archon-github-analyzer-1.onrender.com)
 
 <br/>
 
